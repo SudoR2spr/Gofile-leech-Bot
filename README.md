@@ -1,7 +1,8 @@
 # Gofile-leech-Bot
 Gofile-leech-Bot WOODcraft 
 
-## 🫢The repo has not been completed. No one will deply. /n/ If anyone can fix it, please do.
+## 🫢The repo has not been completed. No one will deply.
+- ## If anyone can fix it, please do.
 
 
 
